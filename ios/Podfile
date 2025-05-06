@@ -14,7 +14,11 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+<<<<<<< HEAD
 target 'ArtSpace' do
+=======
+target 'Woco' do
+>>>>>>> 154c509f7974d482efa30e85852d711715a7cc56
   config = use_native_modules!
 
   use_react_native!(

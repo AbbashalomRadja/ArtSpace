@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">ArtSpace</string>
+=======
+    <string name="app_name">Woco</string>
+>>>>>>> 154c509f7974d482efa30e85852d711715a7cc56
 </resources>

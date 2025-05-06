@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "ArtSpace",
+=======
+  "name": "Woco",
+>>>>>>> 154c509f7974d482efa30e85852d711715a7cc56
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +14,7 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-navigation/native": "^7.1.8",
     "@react-navigation/native-stack": "^7.3.12",
     "@react-navigation/stack": "^7.3.1",
@@ -20,12 +25,18 @@
     "react-native-reanimated": "^3.17.5",
     "react-native-safe-area-context": "^5.4.0",
     "react-native-screens": "^4.10.0",
+=======
+    "iconsax-react-native": "^0.0.8",
+    "react": "19.0.0",
+    "react-native": "0.78.0",
+>>>>>>> 154c509f7974d482efa30e85852d711715a7cc56
     "react-native-svg": "^15.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3",
     "@babel/runtime": "^7.25.0",
+<<<<<<< HEAD
     "@react-native-community/cli": "18.0.0",
     "@react-native-community/cli-platform-android": "18.0.0",
     "@react-native-community/cli-platform-ios": "18.0.0",
@@ -33,6 +44,15 @@
     "@react-native/eslint-config": "0.79.2",
     "@react-native/metro-config": "0.79.2",
     "@react-native/typescript-config": "0.79.2",
+=======
+    "@react-native-community/cli": "15.0.1",
+    "@react-native-community/cli-platform-android": "15.0.1",
+    "@react-native-community/cli-platform-ios": "15.0.1",
+    "@react-native/babel-preset": "0.78.0",
+    "@react-native/eslint-config": "0.78.0",
+    "@react-native/metro-config": "0.78.0",
+    "@react-native/typescript-config": "0.78.0",
+>>>>>>> 154c509f7974d482efa30e85852d711715a7cc56
     "@types/jest": "^29.5.13",
     "@types/react": "^19.0.0",
     "@types/react-test-renderer": "^19.0.0",

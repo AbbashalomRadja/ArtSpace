@@ -77,9 +77,15 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
+<<<<<<< HEAD
     namespace "com.artspace"
     defaultConfig {
         applicationId "com.artspace"
+=======
+    namespace "com.woco"
+    defaultConfig {
+        applicationId "com.woco"
+>>>>>>> 154c509f7974d482efa30e85852d711715a7cc56
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
